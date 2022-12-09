@@ -7,3 +7,5 @@ whatsapp application
 3.we can share the image 
 
 4.we can cal or video call
+
+5.we can add group call
