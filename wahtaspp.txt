@@ -11,3 +11,7 @@ whatsapp application
 5.we can add group call
 
 6.mutiple screen use
+
+7.withmute options
+
+8.without mute option
