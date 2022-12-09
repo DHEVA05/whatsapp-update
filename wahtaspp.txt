@@ -9,3 +9,5 @@ whatsapp application
 4.we can cal or video call
 
 5.we can add group call
+
+6.mutiple screen use
